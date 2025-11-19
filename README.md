@@ -12,7 +12,7 @@ cd focii
 npm install
 
 # Configure your environment
-cp .env-example .env
+cp .env.example .env
 # Edit .env with your platform tokens
 
 # Start developing
